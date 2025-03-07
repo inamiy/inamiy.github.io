@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "UMBZ5WL247.com.inamiy.universal-link-demo"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Any comments"
+          }
+        ]
+      }
+    ]
+  }
+}
